@@ -6,6 +6,6 @@ class DashboardDataClass {
     val AmountOfWater: Long = 0
     val PestsStatus: String = "N/A"
     val Precipitation: Long = 0
-    val SolarRadiation: String = "N/A"
+    val SolarRadiation: Long = 0
     val Temperature: Long = 0
 }
