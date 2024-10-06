@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054945504355",
+    "project_id": "agroautomation-cc9c5",
+    "storage_bucket": "agroautomation-cc9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054945504355:android:382f3907b73ed5cc86dc56",
+        "android_client_info": {
+          "package_name": "com.pendroids.agroautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEf-0G2Yxrn0_Ao-A3Ga6N8WZir3pAxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
