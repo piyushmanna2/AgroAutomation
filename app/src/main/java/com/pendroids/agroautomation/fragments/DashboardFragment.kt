@@ -251,9 +251,9 @@ class DashboardFragment : Fragment() {
      */
     private fun displayData(data: DashboardDataClass) {
         binding.apply {
-            diseaseStatus.text = data.DiseaseStatus
-            solarRadiation.text = data.SolarRadiation
-            irrigationFrequency.text = data.AmountOfWater.toString()
+             diseaseStatus.text = data.DiseaseStatus
+            solarRadiation.text = "${data.SolarRadiation} watt"
+            amountofwater.text = "${data.AmountOfWater} ltr"
             temperature.text = "${data.Temperature}°C"
             humidity.text = "${data.Humidity}%"
             pestsStatus.text = data.PestsStatus
